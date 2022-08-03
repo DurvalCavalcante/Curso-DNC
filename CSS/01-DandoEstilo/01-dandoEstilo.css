@@ -1,0 +1,29 @@
+h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div1 {
+    background-color: rgb(73, 73, 223);
+    width: 300px;
+    height: 300px;
+}
+
+#div2 {
+    background-color: rgb(63, 63, 23);
+    width: 300px;
+    height: 300px;
+}
+
+#div3 {
+    background-color: rgb(53, 53, 90);
+    width: 300px;
+    height: 300px;
+    color: aliceblue;
+}
+
+.allDivs {
+    border: 3px solid black;
+    border-radius: 50%;
+    text-align: center;
+}

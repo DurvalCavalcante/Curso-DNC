@@ -1,0 +1,56 @@
+header {
+    background-color: bisque;
+    margin: 50px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,
+h2,
+h3 {
+    text-transform: uppercase;
+}
+
+#header-down {
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#header-down h1,
+h2,
+h3 {
+    margin: 0;
+}
+
+#contact {
+    list-style: none;
+}
+
+#contact i {
+    width: 35px;
+    color: bisque;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: 40% auto;
+    grid-column-gap: 30px;
+}
+
+#sidebar, #content {
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+.card h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 20px;
+}
