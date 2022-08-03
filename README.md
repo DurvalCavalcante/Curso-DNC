@@ -1,4 +1,4 @@
-## <h1>Olá! Eu sou <a href="https://www.linkedin.com/in/durval-cavalcante"><i>Durval Cavalcante</i></a></h1>
+##´´👋🏼´´ <h1>Olá! Eu sou <a href="https://www.linkedin.com/in/durval-cavalcante"><i>Durval Cavalcante</i></a></h1>
 🌱 Desenvolvedor Front-End Jr<br>
 📚 Repositório do Curso DNC - 2022
 <br /><br />
